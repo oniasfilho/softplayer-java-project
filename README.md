@@ -59,10 +59,10 @@ CREATE TABLE pessoa (
 );
 ```
 Setup da API:
-Na pasta backEnd, executar:
+Na pasta backEnd do [https://github.com/oniasfilho/aws_back](repo), executar:
 
 ```sh
-$ java -jar app.jar
+$ mvn clean package install & mvn clean spring-boot:run
 ```
 
 Setup do Front End:
