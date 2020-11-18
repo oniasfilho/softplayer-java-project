@@ -8,8 +8,8 @@ Projeto criado de acordo com os requisitos do repo softplayer-java-apply.
 - Login: softplan
 - Senha: 12345
 #### repos usados na nuvem:
-https://github.com/oniasfilho/aws_front
-https://github.com/oniasfilho/aws_back
+ - https://github.com/oniasfilho/aws_front
+ - https://github.com/oniasfilho/aws_back
 
 Tecnologias Utilizadas:
 
