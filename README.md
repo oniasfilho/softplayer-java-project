@@ -1,15 +1,17 @@
 # softplayer-java-project
 Projeto criado de acordo com os requisitos do repo softplayer-java-apply.
 
+#### CÓDIGO FONTE DA APLICAÇÃO:
+ - https://github.com/oniasfilho/aws_front
+ - https://github.com/oniasfilho/aws_back
+
 
 #### Informacoes para acesso da aplicacao em nuvem:
 
 - URL: https://frontend.oniasfilho.io/
 - Login: softplan
 - Senha: 12345
-#### repositórios usados na nuvem:
- - https://github.com/oniasfilho/aws_front
- - https://github.com/oniasfilho/aws_back (CODIGO FONTE DA API)
+
 
 Tecnologias Utilizadas:
 
