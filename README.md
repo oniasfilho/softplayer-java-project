@@ -27,7 +27,7 @@ Tecnologias Utilizadas:
 - [x] 3) Segurança | O acesso a aplicacao e feito com Spring Security via autenticacao basic
 - [ ] 4) Instalacao | Infelizmente notei tarde demais que o quarto requisito exigia que o projeto todo rodasse a partir de uma imagem apenas. Eu criei um container para cada service (postgres, spring e react) e fiz um Compose das 3 imagens.
 - [x] 5) Código fonte | ao inserir /source no front (:3000) ou back end (:8080), o usuario e redirecionado para o GitHub.
--
+
 ### Extras
 
 * A aplicação rodando em algum ambiente em nuvem:
